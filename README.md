@@ -1,7 +1,7 @@
 
 
 # Dataset-Lidah-Buaya-dan-Nangka_097_116
-nama anggota: Rahmat Tahmmid A<br>
+nama anggota: Rahmat Tahmmid A dan Hariansyah<br>
 <hr>&nbsp;&nbsp;Hariansyah
 <h2>Tugas</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
