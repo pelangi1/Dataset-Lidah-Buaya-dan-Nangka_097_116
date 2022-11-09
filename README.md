@@ -1,5 +1,5 @@
 
-#<h2>Tugas</h2>
+# Tugas
 # Dataset-Lidah-Buaya-dan-Nangka_097_116
 nama anggota: Rahmat Tahmmid A dan Hariansyah<br>
 
