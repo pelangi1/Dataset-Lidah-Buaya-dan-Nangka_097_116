@@ -8,7 +8,7 @@ nama anggota: Rahmat Tahmmid A dan Hariansyah<br>
 </em> and Artificial Intelligence Student at UMM <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/fjr_notes?label=Follow)
-[![Linkedin: mid](https://img.shields.io/badge/-Rahmad%20Rahmid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/Rahmat-Tahmid/](https://www.linkedin.com/in/rahmat-tahmid-65a85a194/)](https://www.linkedin.com/in/rahmat-tahmid-65a85a194/))]([https://www.linkedin.com/in/Rahmat-Tahmid](https://www.linkedin.com/in/rahmat-tahmid-65a85a194/))
+[![Linkedin: mid](https://img.shields.io/badge/-Rahmad%20Rahmid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/rahmat-tahmid-65a85a194/](https://www.linkedin.com/in/rahmat-tahmid-65a85a194/)](https://www.linkedin.com/in/rahmat-tahmid-65a85a194/))]([https://www.linkedin.com/in/rahmat-tahmid-65a85a194/](https://www.linkedin.com/in/rahmat-tahmid-65a85a194/))
 ![GitHub followers](https://img.shields.io/github/followers/secondl1f3?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://leoopard.site/)](http://leoopard.site/)
 
