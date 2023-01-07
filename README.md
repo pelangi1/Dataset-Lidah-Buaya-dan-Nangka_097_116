@@ -8,10 +8,9 @@ nama anggota: Rahmat Tahmmid A dan Hariansyah<br>
 </em> and Artificial Intelligence Student at UMM <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/fjr_notes?label=Follow)
-[![Linkedin: mid](https://img.shields.io/badge/-Rahmad%20Rahmid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Rahmat-Tahmid/)](https://www.linkedin.com/in/Rahmat-Tahmid)
 ![GitHub followers](https://img.shields.io/github/followers/secondl1f3?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://leoopard.site/)](http://leoopard.site/)
-
+<a href="https://www.linkedin.com/in/rahmat-tahmid-65a85a194" target="blank"><img src="https://img.shields.io/badge/Rahmat%20Tahmid-blue?style=flat&logo=linkedin" /></a>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about Us...  
 
 ```javascript
